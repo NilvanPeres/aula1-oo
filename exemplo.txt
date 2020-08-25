@@ -1,0 +1,7 @@
+aula 1 - oo
+## Nilvan Peres Costa
+
+Essa aula tem o intuito de adaptar os alunos ao GIT.
+
+
+git endereço: https://github.com/juninhigh/aula1-oo.git
